@@ -9,6 +9,12 @@
     float: right;
 }
 
+#search {
+    background: transparent;
+    border: white 1px solid;
+    color: white;
+}
+
 button {
     margin: 5px;
     word-wrap: break-word;
@@ -19,6 +25,9 @@ img {
     align-content: center;
     height: 250px;
     width: 250px;
+}
+body {
+    background: rgb(222,253,210);
 }
 
 .container {       
@@ -45,6 +54,7 @@ img {
     margin: 20px;
     float: left;
     border: gray 1pt solid;
+    background: transparent;
 }
 
 .card-footer {
